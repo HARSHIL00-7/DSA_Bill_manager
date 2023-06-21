@@ -1,0 +1,11 @@
+Serial.no ,ProductName ,ProductPrice ,QuantitySold ,Type ,Profit
+45 ,Pizza , 250 , 032 ,VEG , 020
+78 ,Burger , 120 , 015 ,VEG , 010
+31 ,Salad , 100 , 042 ,VEG , 015
+93 ,Sushi , 350 , 056 ,NON-VEG , 090
+52 ,Steak , 450 , 123 ,NON-VEG , 200
+27 ,Shrimp Scampi , 200 , 035 ,NON-VEG , 080
+39 ,Veggie Wrap , 090 , 080 ,NON-VEG , 028
+68 ,Risotto , 150 , 058 ,VEG , 060
+82 ,Taco , 080 , 095 ,VEG , 025
+14 ,Sushi Burrito , 199 , 150 ,NON-VEG , 100
