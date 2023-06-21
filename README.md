@@ -20,4 +20,4 @@ The first challenge we faced was taking the input from an `Excel`(first choice) 
 The second challenge was of implementing the Knapsack Algorithm and displaying the optimized bill.
 
 ## _Future of this project_
-A proper Frontend can be built and using the concepts of this project it can be used by restraunts. 
+A proper Frontend can be built and using the concepts of this project it can be used by restaurants. 
